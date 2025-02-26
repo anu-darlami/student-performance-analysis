@@ -1,0 +1,24 @@
+A001, Ram Lama, Business, 67.50, D
+A002, Mark Timalsina, Business, 84.50, B
+A003, Lina Shrestha, Business, 71.00, C
+A004, Sita Thapa, Business, 77.00, C
+A005, Gita Thapa, Business, 80.00, B
+A006, Hari Basnet, Business, 55.50, F
+A007, Shyamu Kaushal, Business, 58.50, F
+A008, Bipana Magar, Business, 68.00, D
+A009, Sisham Thapa, Business, 60.50, D
+A0010, Riya Chaudary , Business, 78.00, C
+A0011, Arika Basnet, Business, 80.00, B
+A0012, Aayusha Mishra, Business, 27.00, F
+A0013, Aman Ale, Business, 74.50, C
+A0014, Amrita Khadka, Business, 82.00, B
+A0015, Anup Bhattarai, Business, 65.50, D
+A0016, Ann Magar, Business, 93.50, A
+A0017, Asita Mishra, Business, 61.00, D
+A0018, Julia Haart, Business, 70.50, C
+A0019, Nikita Ale, Business, 77.50, C
+A0020, Namuna Chaudhary, Business, 71.50, C
+A0021, Kushal Rai, Business, 61.00, D
+A0022, Selsa Chaudhary, Business, 89.00, B
+A0023, Nabin Thapa, Business, 56.00, F
+A0024, Suraj Acharya, Business, 82.00, B
