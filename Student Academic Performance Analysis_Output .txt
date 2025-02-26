@@ -1,0 +1,2956 @@
+Python 3.12.1 (tags/v3.12.1:2305ca5, Dec  7 2023, 22:03:25) [MSC v.1937 64 bit (AMD64)] on win32
+Type "help", "copyright", "credits" or "license()" for more information.
+
+= RESTART: C:\Users\LENOVO\OneDrive - Cambrian College\Case Study\Student Academic Performance Analysis_Final2.py
+
+👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾
+👾		Student Academic Performance Analysis	    👾
+👾  		Programmed by:			            👾
+👾		 Bipul, Anu, Ruchika			    👾
+👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾
+
+		MENU:
+-------------------------------
+1. Display the first file.
+2. Display the second file
+3. Search student record
+4. Add marks
+5. Create third file
+6. Display the third file
+7. Exit
+--------------------------------
+
+Enter your choice: w
+ERROR: Please enter a valid integer choice.
+
+		MENU:
+-------------------------------
+1. Display the first file.
+2. Display the second file
+3. Search student record
+4. Add marks
+5. Create third file
+6. Display the third file
+7. Exit
+--------------------------------
+
+Enter your choice: 133
+******************************************************************************
+ERROR: ***Invalid choice***
+
+		MENU:
+-------------------------------
+1. Display the first file.
+2. Display the second file
+3. Search student record
+4. Add marks
+5. Create third file
+6. Display the third file
+7. Exit
+--------------------------------
+
+Enter your choice: 1
+******************************************************************************
+Error: File "FIRST_FILE.txt" not found.
+Traceback (most recent call last):
+  File "C:\Users\LENOVO\OneDrive - Cambrian College\Case Study\Student Academic Performance Analysis_Final2.py", line 304, in <module>
+    main()
+  File "C:\Users\LENOVO\OneDrive - Cambrian College\Case Study\Student Academic Performance Analysis_Final2.py", line 58, in main
+    read_first_file()
+  File "C:\Users\LENOVO\OneDrive - Cambrian College\Case Study\Student Academic Performance Analysis_Final2.py", line 121, in read_first_file
+    file.close()
+UnboundLocalError: cannot access local variable 'file' where it is not associated with a value
+
+= RESTART: C:\Users\LENOVO\OneDrive - Cambrian College\Case Study\Student Academic Performance Analysis_Final2.py
+
+👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾
+👾		Student Academic Performance Analysis	    👾
+👾  		Programmed by:			            👾
+👾		 Bipul, Anu, Ruchika			    👾
+👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾
+
+		MENU:
+-------------------------------
+1. Display the first file.
+2. Display the second file
+3. Search student record
+4. Add marks
+5. Create third file
+6. Display the third file
+7. Exit
+--------------------------------
+
+Enter your choice: 1
+******************************************************************************
+File "FIRST_FILE.txt" is empty.
+
+		MENU:
+-------------------------------
+1. Display the first file.
+2. Display the second file
+3. Search student record
+4. Add marks
+5. Create third file
+6. Display the third file
+7. Exit
+--------------------------------
+
+Enter your choice: 
+= RESTART: C:\Users\LENOVO\OneDrive - Cambrian College\Case Study\Student Academic Performance Analysis_Final2.py
+
+👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾
+👾		Student Academic Performance Analysis	    👾
+👾  		Programmed by:			            👾
+👾		 Bipul, Anu, Ruchika			    👾
+👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾
+
+		MENU:
+-------------------------------
+1. Display the first file.
+2. Display the second file
+3. Search student record
+4. Add marks
+5. Create third file
+6. Display the third file
+7. Exit
+--------------------------------
+
+Enter your choice: 1
+******************************************************************************
+
+---------------------------------------------
+student_id     student_name        course         
+---------------------------------------------
+A001           Ram Lama            Business       
+A002           Mark Timalsina      Business       
+A003           Lina Shrestha       Business       
+A004           Sita Thapa          Business       
+A005           Gita Thapa          Business       
+A006           Hari Basnet         Business       
+A007           Shyamu Kaushal      Business       
+A008           Bipana Magar        Business       
+A009           Sisham Thapa        Business       
+A0010          Riya Chaudary       Business       
+A0011          Arika Basnet        Business       
+A0012          Aayusha Mishra      Business       
+A0013          Aman Ale            Business       
+A0014          Amrita Khadka       Business       
+A0015          Anup Bhattarai      Business       
+---------------------------------------------
+
+		MENU:
+-------------------------------
+1. Display the first file.
+2. Display the second file
+3. Search student record
+4. Add marks
+5. Create third file
+6. Display the third file
+7. Exit
+--------------------------------
+
+Enter your choice: 2
+******************************************************************************
+Error: File "SECOND_FILE.txt" not found.
+Traceback (most recent call last):
+  File "C:\Users\LENOVO\OneDrive - Cambrian College\Case Study\Student Academic Performance Analysis_Final2.py", line 304, in <module>
+    main()
+  File "C:\Users\LENOVO\OneDrive - Cambrian College\Case Study\Student Academic Performance Analysis_Final2.py", line 60, in main
+    read_second_file_line_by_line()
+  File "C:\Users\LENOVO\OneDrive - Cambrian College\Case Study\Student Academic Performance Analysis_Final2.py", line 149, in read_second_file_line_by_line
+    file.close()
+UnboundLocalError: cannot access local variable 'file' where it is not associated with a value
+
+
+= RESTART: C:\Users\LENOVO\OneDrive - Cambrian College\Case Study\Final_Student Academic Performance Analysis.py
+
+👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾
+👾		Student Academic Performance Analysis	    👾
+👾  		Programmed by:			            👾
+👾		 Bipul, Anu, Ruchika			    👾
+👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾
+
+		MENU:
+---------------------------------------------------
+1. Read and display content from the first file.
+2. Read and display content from the second file
+3. Search student record
+4. Add marks
+5. Create third file
+6. Display third file
+7. Exit
+-----------------------------------------------------
+
+Enter your choice: 2
+******************************************************************************
+
+------------------------------------------------------------------------------
+Student_Id     Assignment_Name     Marks1         Quiz_Name      Marks2         
+------------------------------------------------------------------------------
+A001            Assignment 1        50             Quiz 1         85            
+------------------------------------------------------------------------------
+A002            Assignment 1        82             Quiz 1         87            
+------------------------------------------------------------------------------
+A003            Assignment 1        72             Quiz 1         70            
+------------------------------------------------------------------------------
+A004            Assignment 1        76             Quiz 1         78            
+------------------------------------------------------------------------------
+A005            Assignment 1        81             Quiz 1         79            
+------------------------------------------------------------------------------
+A006            Assignment 1        13             Quiz 1         98            
+------------------------------------------------------------------------------
+A007            Assignment 1        57             Quiz 1         60            
+------------------------------------------------------------------------------
+A008            Assignment 1        66             Quiz 1         70            
+------------------------------------------------------------------------------
+A009            Assignment 1        76             Quiz 1         45            
+------------------------------------------------------------------------------
+A0010           Assignment 1        67             Quiz 1         89            
+------------------------------------------------------------------------------
+A0011           Assignment 1        73             Quiz 1         87            
+------------------------------------------------------------------------------
+A0012           Assignment 1        14             Quiz 1         40            
+------------------------------------------------------------------------------
+A0013           Assignment 1        76             Quiz 1         73            
+------------------------------------------------------------------------------
+A0014           Assignment 1        86             Quiz 1         78            
+------------------------------------------------------------------------------
+A0015           Assignment 1        55             Quiz 1         76            
+------------------------------------------------------------------------------
+
+		MENU:
+---------------------------------------------------
+1. Read and display content from the first file.
+2. Read and display content from the second file
+3. Search student record
+4. Add marks
+5. Create third file
+6. Display third file
+7. Exit
+-----------------------------------------------------
+
+Enter your choice: 3
+******************************************************************************
+Enter the student ID to search: q
+------------------------------
+*** No record found ***
+------------------------------
+
+		MENU:
+---------------------------------------------------
+1. Read and display content from the first file.
+2. Read and display content from the second file
+3. Search student record
+4. Add marks
+5. Create third file
+6. Display third file
+7. Exit
+-----------------------------------------------------
+
+Enter your choice: ww1
+ERROR: Please enter a valid integer choice.
+
+		MENU:
+---------------------------------------------------
+1. Read and display content from the first file.
+2. Read and display content from the second file
+3. Search student record
+4. Add marks
+5. Create third file
+6. Display third file
+7. Exit
+-----------------------------------------------------
+
+Enter your choice: d
+ERROR: Please enter a valid integer choice.
+
+		MENU:
+---------------------------------------------------
+1. Read and display content from the first file.
+2. Read and display content from the second file
+3. Search student record
+4. Add marks
+5. Create third file
+6. Display third file
+7. Exit
+-----------------------------------------------------
+
+Enter your choice: 3
+******************************************************************************
+Enter the student ID to search: 1222
+------------------------------
+*** No record found ***
+------------------------------
+
+		MENU:
+---------------------------------------------------
+1. Read and display content from the first file.
+2. Read and display content from the second file
+3. Search student record
+4. Add marks
+5. Create third file
+6. Display third file
+7. Exit
+-----------------------------------------------------
+
+Enter your choice: 3
+******************************************************************************
+Enter the student ID to search: A0011
+
+Record found:
+------------------------------
+Student ID      : A0011
+Student Name    : Arika Basnet
+Course          : Business
+------------------------------
+
+		MENU:
+---------------------------------------------------
+1. Read and display content from the first file.
+2. Read and display content from the second file
+3. Search student record
+4. Add marks
+5. Create third file
+6. Display third file
+7. Exit
+-----------------------------------------------------
+
+Enter your choice: 3
+******************************************************************************
+Enter the student ID to search: A003
+
+Record found:
+------------------------------
+Student ID      : A003
+Student Name    : Lina Shrestha
+Course          : Business
+------------------------------
+
+		MENU:
+---------------------------------------------------
+1. Read and display content from the first file.
+2. Read and display content from the second file
+3. Search student record
+4. Add marks
+5. Create third file
+6. Display third file
+7. Exit
+-----------------------------------------------------
+
+Enter your choice: 3
+******************************************************************************
+Enter the student ID to search: A0015
+
+Record found:
+------------------------------
+Student ID      : A0015
+Student Name    : Anup Bhattarai
+Course          : Business
+------------------------------
+
+		MENU:
+---------------------------------------------------
+1. Read and display content from the first file.
+2. Read and display content from the second file
+3. Search student record
+4. Add marks
+5. Create third file
+6. Display third file
+7. Exit
+-----------------------------------------------------
+
+Enter your choice: 4
+******************************************************************************
+Enter the student ID for adding marks: A0016
+Enter the student name: Ann Magar
+Enter the course: Business
+Enter the assignment marks: 78
+Enter the quiz marks: 9000
+Error: Marks should be between 0 and 100.
+
+		MENU:
+---------------------------------------------------
+1. Read and display content from the first file.
+2. Read and display content from the second file
+3. Search student record
+4. Add marks
+5. Create third file
+6. Display third file
+7. Exit
+-----------------------------------------------------
+
+Enter your choice: 
+= RESTART: C:\Users\LENOVO\OneDrive - Cambrian College\Case Study\Student Academic Performance Analysis_Final2.py
+
+👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾
+👾		Student Academic Performance Analysis	    👾
+👾  		Programmed by:			            👾
+👾		 Bipul, Anu, Ruchika			    👾
+👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾
+
+		MENU:
+-------------------------------
+1. Display the first file.
+2. Display the second file
+3. Search student record
+4. Add marks
+5. Create third file
+6. Display the third file
+7. Exit
+--------------------------------
+
+Enter your choice: 4
+******************************************************************************
+Enter the student ID for adding marks: A0016
+Enter the student name: Ann Magar
+Enter the course: Business
+Enter the assignment marks: 788
+Enter the quiz marks: 900
+/nError: Marks should be between 0 and 100.
+
+		MENU:
+-------------------------------
+1. Display the first file.
+2. Display the second file
+3. Search student record
+4. Add marks
+5. Create third file
+6. Display the third file
+7. Exit
+--------------------------------
+
+Enter your choice: 
+= RESTART: C:\Users\LENOVO\OneDrive - Cambrian College\Case Study\Student Academic Performance Analysis_Final2.py
+
+👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾
+👾		Student Academic Performance Analysis	    👾
+👾  		Programmed by:			            👾
+👾		 Bipul, Anu, Ruchika			    👾
+👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾
+
+		MENU:
+-------------------------------
+1. Display the first file.
+2. Display the second file
+3. Search student record
+4. Add marks
+5. Create third file
+6. Display the third file
+7. Exit
+--------------------------------
+
+Enter your choice: 4
+******************************************************************************
+Enter the student ID for adding marks: A0016
+Enter the student name: Ann Magar
+Enter the course: Business
+Enter the assignment marks: 122
+Enter the quiz marks: 333
+
+Error: Marks should be between 0 and 100.
+
+		MENU:
+-------------------------------
+1. Display the first file.
+2. Display the second file
+3. Search student record
+4. Add marks
+5. Create third file
+6. Display the third file
+7. Exit
+--------------------------------
+
+Enter your choice: 4
+******************************************************************************
+Enter the student ID for adding marks: A0016
+Enter the student name: Ann Magar
+Enter the course: Business
+Enter the assignment marks: w
+Enter the quiz marks: e
+/nError: Invalid input for marks. Please enter numeric values.
+
+		MENU:
+-------------------------------
+1. Display the first file.
+2. Display the second file
+3. Search student record
+4. Add marks
+5. Create third file
+6. Display the third file
+7. Exit
+--------------------------------
+
+Enter your choice: 
+= RESTART: C:\Users\LENOVO\OneDrive - Cambrian College\Case Study\Student Academic Performance Analysis_Final2.py
+
+👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾
+👾		Student Academic Performance Analysis	    👾
+👾  		Programmed by:			            👾
+👾		 Bipul, Anu, Ruchika			    👾
+👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾
+
+		MENU:
+-------------------------------
+1. Display the first file.
+2. Display the second file
+3. Search student record
+4. Add marks
+5. Create third file
+6. Display the third file
+7. Exit
+--------------------------------
+
+Enter your choice: 4
+******************************************************************************
+Enter the student ID for adding marks: A0016
+Enter the student name: Ann Magar
+Enter the course: Business
+Enter the assignment marks: 78
+Enter the quiz marks: oo
+
+Error: Invalid input for marks. Please enter numeric values.
+
+		MENU:
+-------------------------------
+1. Display the first file.
+2. Display the second file
+3. Search student record
+4. Add marks
+5. Create third file
+6. Display the third file
+7. Exit
+--------------------------------
+
+Enter your choice: 4
+******************************************************************************
+Enter the student ID for adding marks: A0016
+Enter the student name: Ann Magar
+Enter the course: Business
+Enter the assignment marks: 98
+Enter the quiz marks: 89
+---------------------------------------------------------------------------
+Marks added successfully for the new student.
+---------------------------------------------------------------------------
+
+		MENU:
+-------------------------------
+1. Display the first file.
+2. Display the second file
+3. Search student record
+4. Add marks
+5. Create third file
+6. Display the third file
+7. Exit
+--------------------------------
+
+Enter your choice: 4
+******************************************************************************
+Enter the student ID for adding marks: A0017
+Enter the student name: Asita Mishra
+Enter the course: Business
+Enter the assignment marks: 77
+Enter the quiz marks: 45
+---------------------------------------------------------------------------
+Marks added successfully for the new student.
+---------------------------------------------------------------------------
+
+		MENU:
+-------------------------------
+1. Display the first file.
+2. Display the second file
+3. Search student record
+4. Add marks
+5. Create third file
+6. Display the third file
+7. Exit
+--------------------------------
+
+Enter your choice: 
+= RESTART: C:\Users\LENOVO\OneDrive - Cambrian College\Case Study\Student Academic Performance Analysis_Final2.py
+
+👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾
+👾		Student Academic Performance Analysis	    👾
+👾  		Programmed by:			            👾
+👾		 Bipul, Anu, Ruchika			    👾
+👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾
+
+		MENU:
+-------------------------------
+1. Display the first file.
+2. Display the second file
+3. Search student record
+4. Add marks
+5. Create third file
+6. Display the third file
+7. Exit
+--------------------------------
+
+Enter your choice: 4
+******************************************************************************
+Enter the student ID for adding marks: A0018
+Enter the student name: Julia Haart
+Enter the course: Business
+Enter the assignment marks: 87
+Enter the quiz marks: 54
+---------------------------------------------------------------------------
+Marks added successfully for the new student.
+---------------------------------------------------------------------------
+
+		MENU:
+-------------------------------
+1. Display the first file.
+2. Display the second file
+3. Search student record
+4. Add marks
+5. Create third file
+6. Display the third file
+7. Exit
+--------------------------------
+
+Enter your choice: 5
+******************************************************************************
+Processing data for student ID: A001
+Total marks calculated for student A001: 67.50, Grade: D
+
+Processing data for student ID: A002
+Total marks calculated for student A002: 84.50, Grade: B
+
+Processing data for student ID: A003
+Total marks calculated for student A003: 71.00, Grade: C
+
+Processing data for student ID: A004
+Total marks calculated for student A004: 77.00, Grade: C
+
+Processing data for student ID: A005
+Total marks calculated for student A005: 80.00, Grade: B
+
+Processing data for student ID: A006
+Total marks calculated for student A006: 55.50, Grade: F
+
+Processing data for student ID: A007
+Total marks calculated for student A007: 58.50, Grade: F
+
+Processing data for student ID: A008
+Total marks calculated for student A008: 68.00, Grade: D
+
+Processing data for student ID: A009
+Total marks calculated for student A009: 60.50, Grade: D
+
+Processing data for student ID: A0010
+Total marks calculated for student A0010: 78.00, Grade: C
+
+Processing data for student ID: A0011
+Total marks calculated for student A0011: 80.00, Grade: B
+
+Processing data for student ID: A0012
+Total marks calculated for student A0012: 27.00, Grade: F
+
+Processing data for student ID: A0013
+Total marks calculated for student A0013: 74.50, Grade: C
+
+Processing data for student ID: A0014
+Total marks calculated for student A0014: 82.00, Grade: B
+
+Invalid data format in line: A0015, Anup Bhattarai, BusinessA0016, Ann Magar, Business
+Processing data for student ID: A0017
+Total marks calculated for student A0017: 61.00, Grade: D
+
+Processing data for student ID: A0018
+Total marks calculated for student A0018: 70.50, Grade: C
+
+---------------------------------------------------------------------------
+Third file creation completed.
+---------------------------------------------------------------------------
+
+		MENU:
+-------------------------------
+1. Display the first file.
+2. Display the second file
+3. Search student record
+4. Add marks
+5. Create third file
+6. Display the third file
+7. Exit
+--------------------------------
+
+Enter your choice: 
+= RESTART: C:\Users\LENOVO\OneDrive - Cambrian College\Case Study\Student Academic Performance Analysis_Final2.py
+
+👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾
+👾		Student Academic Performance Analysis	    👾
+👾  		Programmed by:			            👾
+👾		 Bipul, Anu, Ruchika			    👾
+👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾
+
+		MENU:
+-------------------------------
+1. Display the first file.
+2. Display the second file
+3. Search student record
+4. Add marks
+5. Create third file
+6. Display the third file
+7. Exit
+--------------------------------
+
+Enter your choice: 5
+******************************************************************************
+Processing data for student ID: A001
+Total marks calculated for student A001: 67.50, Grade: D
+
+Processing data for student ID: A002
+Total marks calculated for student A002: 84.50, Grade: B
+
+Processing data for student ID: A003
+Total marks calculated for student A003: 71.00, Grade: C
+
+Processing data for student ID: A004
+Total marks calculated for student A004: 77.00, Grade: C
+
+Processing data for student ID: A005
+Total marks calculated for student A005: 80.00, Grade: B
+
+Processing data for student ID: A006
+Total marks calculated for student A006: 55.50, Grade: F
+
+Processing data for student ID: A007
+Total marks calculated for student A007: 58.50, Grade: F
+
+Processing data for student ID: A008
+Total marks calculated for student A008: 68.00, Grade: D
+
+Processing data for student ID: A009
+Total marks calculated for student A009: 60.50, Grade: D
+
+Processing data for student ID: A0010
+Total marks calculated for student A0010: 78.00, Grade: C
+
+Processing data for student ID: A0011
+Total marks calculated for student A0011: 80.00, Grade: B
+
+Processing data for student ID: A0012
+Total marks calculated for student A0012: 27.00, Grade: F
+
+Processing data for student ID: A0013
+Total marks calculated for student A0013: 74.50, Grade: C
+
+Processing data for student ID: A0014
+Total marks calculated for student A0014: 82.00, Grade: B
+
+Processing data for student ID: A0015
+Total marks calculated for student A0015: 65.50, Grade: D
+
+Processing data for student ID: A0016
+Total marks calculated for student A0016: 93.50, Grade: A
+
+Processing data for student ID: A0017
+Total marks calculated for student A0017: 61.00, Grade: D
+
+Processing data for student ID: A0018
+Total marks calculated for student A0018: 70.50, Grade: C
+
+---------------------------------------------------------------------------
+Third file creation completed.
+---------------------------------------------------------------------------
+
+		MENU:
+-------------------------------
+1. Display the first file.
+2. Display the second file
+3. Search student record
+4. Add marks
+5. Create third file
+6. Display the third file
+7. Exit
+--------------------------------
+
+Enter your choice: 
+= RESTART: C:\Users\LENOVO\OneDrive - Cambrian College\Case Study\Student Academic Performance Analysis_Final2.py
+
+👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾
+👾		Student Academic Performance Analysis	    👾
+👾  		Programmed by:			            👾
+👾		 Bipul, Anu, Ruchika			    👾
+👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾
+
+		MENU:
+-------------------------------
+1. Display the first file.
+2. Display the second file
+3. Search student record
+4. Add marks
+5. Create third file
+6. Display the third file
+7. Exit
+--------------------------------
+
+Enter your choice: 5
+******************************************************************************
+Processing data for student ID: A001
+Total marks calculated for student A001: 67.50, Grade: D
+
+Processing data for student ID: A002
+Total marks calculated for student A002: 84.50, Grade: B
+
+Processing data for student ID: A003
+Total marks calculated for student A003: 71.00, Grade: C
+
+Processing data for student ID: A004
+Total marks calculated for student A004: 77.00, Grade: C
+
+Processing data for student ID: A005
+Total marks calculated for student A005: 80.00, Grade: B
+
+Processing data for student ID: A006
+Total marks calculated for student A006: 55.50, Grade: F
+
+Processing data for student ID: A007
+Total marks calculated for student A007: 58.50, Grade: F
+
+Processing data for student ID: A008
+Total marks calculated for student A008: 68.00, Grade: D
+
+Processing data for student ID: A009
+Total marks calculated for student A009: 60.50, Grade: D
+
+Processing data for student ID: A0010
+Total marks calculated for student A0010: 78.00, Grade: C
+
+Processing data for student ID: A0011
+Total marks calculated for student A0011: 80.00, Grade: B
+
+Processing data for student ID: A0012
+Total marks calculated for student A0012: 27.00, Grade: F
+
+Processing data for student ID: A0013
+Total marks calculated for student A0013: 74.50, Grade: C
+
+Processing data for student ID: A0014
+Total marks calculated for student A0014: 82.00, Grade: B
+
+Processing data for student ID: A0015
+Total marks calculated for student A0015: 65.50, Grade: D
+
+Processing data for student ID: A0016
+Total marks calculated for student A0016: 93.50, Grade: A
+
+Processing data for student ID: A0017
+Total marks calculated for student A0017: 61.00, Grade: D
+
+Processing data for student ID: A0018
+Total marks calculated for student A0018: 70.50, Grade: C
+
+---------------------------------------------------------------------------
+Third file creation completed.
+---------------------------------------------------------------------------
+
+		MENU:
+-------------------------------
+1. Display the first file.
+2. Display the second file
+3. Search student record
+4. Add marks
+5. Create third file
+6. Display the third file
+7. Exit
+--------------------------------
+
+Enter your choice: 6
+******************************************************************************
+
+Data from third file:
+
+---------------------------------------------------------------------------
+Student ID     Student Name        Course         Total Grade    
+---------------------------------------------------------------------------
+A001           Ram Lama            Business       67.50, D       
+A002           Mark Timalsina      Business       84.50, B       
+A003           Lina Shrestha       Business       71.00, C       
+A004           Sita Thapa          Business       77.00, C       
+A005           Gita Thapa          Business       80.00, B       
+A006           Hari Basnet         Business       55.50, F       
+A007           Shyamu Kaushal      Business       58.50, F       
+A008           Bipana Magar        Business       68.00, D       
+A009           Sisham Thapa        Business       60.50, D       
+A0010          Riya Chaudary       Business       78.00, C       
+A0011          Arika Basnet        Business       80.00, B       
+A0012          Aayusha Mishra      Business       27.00, F       
+A0013          Aman Ale            Business       74.50, C       
+A0014          Amrita Khadka       Business       82.00, B       
+A0015          Anup Bhattarai      Business       65.50, D       
+A0016          Ann Magar           Business       93.50, A       
+A0017          Asita Mishra        Business       61.00, D       
+A0018          Julia Haart         Business       70.50, C       
+---------------------------------------------------------------------------
+
+		MENU:
+-------------------------------
+1. Display the first file.
+2. Display the second file
+3. Search student record
+4. Add marks
+5. Create third file
+6. Display the third file
+7. Exit
+--------------------------------
+
+Enter your choice: 7
+******************************************************************************
+THANK YOU!!!
+Exiting the program...
+******************************************************************************
+
+= RESTART: C:\Users\LENOVO\OneDrive - Cambrian College\Case Study\Student Academic Performance Analysis_Final2.py
+
+👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾
+👾		Student Academic Performance Analysis	    👾
+👾  		Programmed by:			            👾
+👾		 Bipul, Anu, Ruchika			    👾
+👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾
+
+		MENU:
+-------------------------------
+1. Display the first file.
+2. Display the second file
+3. Search student record
+4. Add marks
+5. Create third file
+6. Display the third file
+7. Exit
+--------------------------------
+
+Enter your choice: 1
+******************************************************************************
+
+---------------------------------------------
+student_id     student_name        course         
+---------------------------------------------
+A001           Ram Lama            Business       
+A002           Mark Timalsina      Business       
+A003           Lina Shrestha       Business       
+A004           Sita Thapa          Business       
+A005           Gita Thapa          Business       
+A006           Hari Basnet         Business       
+A007           Shyamu Kaushal      Business       
+A008           Bipana Magar        Business       
+A009           Sisham Thapa        Business       
+A0010          Riya Chaudary       Business       
+A0011          Arika Basnet        Business       
+A0012          Aayusha Mishra      Business       
+A0013          Aman Ale            Business       
+A0014          Amrita Khadka       Business       
+A0015          Anup Bhattarai      Business       
+A0016          Ann Magar           Business       
+A0017          Asita Mishra        Business       
+A0018          Julia Haart         Business       
+---------------------------------------------
+
+		MENU:
+-------------------------------
+1. Display the first file.
+2. Display the second file
+3. Search student record
+4. Add marks
+5. Create third file
+6. Display the third file
+7. Exit
+--------------------------------
+
+Enter your choice: 2
+******************************************************************************
+
+------------------------------------------------------------------------------
+student_id     assignment_name     marks1         quiz_name           marks2              
+------------------------------------------------------------------------------
+A001            Assignment 1        50             Quiz 1              85                 
+A002            Assignment 1        82             Quiz 1              87                 
+A003            Assignment 1        72             Quiz 1              70                 
+A004            Assignment 1        76             Quiz 1              78                 
+A005            Assignment 1        81             Quiz 1              79                 
+A006            Assignment 1        13             Quiz 1              98                 
+A007            Assignment 1        57             Quiz 1              60                 
+A008            Assignment 1        66             Quiz 1              70                 
+A009            Assignment 1        76             Quiz 1              45                 
+A0010           Assignment 1        67             Quiz 1              89                 
+A0011           Assignment 1        73             Quiz 1              87                 
+A0012           Assignment 1        14             Quiz 1              40                 
+A0013           Assignment 1        76             Quiz 1              73                 
+A0014           Assignment 1        86             Quiz 1              78                 
+A0015           Assignment 1        55             Quiz 1              76                 
+A0016           Assignment 1        98             Quiz 1              89                 
+A0017           Assignment 1        77             Quiz 1              45                 
+A0018           Assignment 1        87             Quiz 1              54                 
+
+		MENU:
+-------------------------------
+1. Display the first file.
+2. Display the second file
+3. Search student record
+4. Add marks
+5. Create third file
+6. Display the third file
+7. Exit
+--------------------------------
+
+Enter your choice: 3
+******************************************************************************
+Enter the student ID to search: A0034
+------------------------------
+*** No record found ***
+------------------------------
+
+		MENU:
+-------------------------------
+1. Display the first file.
+2. Display the second file
+3. Search student record
+4. Add marks
+5. Create third file
+6. Display the third file
+7. Exit
+--------------------------------
+
+Enter your choice: 3
+******************************************************************************
+Enter the student ID to search: A001
+
+Record found:
+------------------------------
+Student ID      : A001
+Student Name    : Ram Lama
+Course          : Business
+------------------------------
+
+		MENU:
+-------------------------------
+1. Display the first file.
+2. Display the second file
+3. Search student record
+4. Add marks
+5. Create third file
+6. Display the third file
+7. Exit
+--------------------------------
+
+Enter your choice: 3
+******************************************************************************
+Enter the student ID to search: A009
+
+Record found:
+------------------------------
+Student ID      : A009
+Student Name    : Sisham Thapa
+Course          : Business
+------------------------------
+
+		MENU:
+-------------------------------
+1. Display the first file.
+2. Display the second file
+3. Search student record
+4. Add marks
+5. Create third file
+6. Display the third file
+7. Exit
+--------------------------------
+
+Enter your choice: 4
+******************************************************************************
+Enter the student ID for adding marks: A0019
+Enter the student name: Nikita Ale
+Enter the course: Business
+Enter the assignment marks: 67
+Enter the quiz marks: 88
+---------------------------------------------------------------------------
+Marks added successfully for the new student.
+---------------------------------------------------------------------------
+
+		MENU:
+-------------------------------
+1. Display the first file.
+2. Display the second file
+3. Search student record
+4. Add marks
+5. Create third file
+6. Display the third file
+7. Exit
+--------------------------------
+
+Enter your choice: 3
+******************************************************************************
+Enter the student ID to search: A0020
+------------------------------
+*** No record found ***
+------------------------------
+
+		MENU:
+-------------------------------
+1. Display the first file.
+2. Display the second file
+3. Search student record
+4. Add marks
+5. Create third file
+6. Display the third file
+7. Exit
+--------------------------------
+
+Enter your choice: 4
+******************************************************************************
+Enter the student ID for adding marks: A0020
+Enter the student name: Namuna Chaudhary
+Enter the course: Business
+Enter the assignment marks: 88
+Enter the quiz marks: 55
+---------------------------------------------------------------------------
+Marks added successfully for the new student.
+---------------------------------------------------------------------------
+
+		MENU:
+-------------------------------
+1. Display the first file.
+2. Display the second file
+3. Search student record
+4. Add marks
+5. Create third file
+6. Display the third file
+7. Exit
+--------------------------------
+
+Enter your choice: 5
+******************************************************************************
+Processing data for student ID: A001
+Total marks calculated for student A001: 67.50, Grade: D
+
+Processing data for student ID: A002
+Total marks calculated for student A002: 84.50, Grade: B
+
+Processing data for student ID: A003
+Total marks calculated for student A003: 71.00, Grade: C
+
+Processing data for student ID: A004
+Total marks calculated for student A004: 77.00, Grade: C
+
+Processing data for student ID: A005
+Total marks calculated for student A005: 80.00, Grade: B
+
+Processing data for student ID: A006
+Total marks calculated for student A006: 55.50, Grade: F
+
+Processing data for student ID: A007
+Total marks calculated for student A007: 58.50, Grade: F
+
+Processing data for student ID: A008
+Total marks calculated for student A008: 68.00, Grade: D
+
+Processing data for student ID: A009
+Total marks calculated for student A009: 60.50, Grade: D
+
+Processing data for student ID: A0010
+Total marks calculated for student A0010: 78.00, Grade: C
+
+Processing data for student ID: A0011
+Total marks calculated for student A0011: 80.00, Grade: B
+
+Processing data for student ID: A0012
+Total marks calculated for student A0012: 27.00, Grade: F
+
+Processing data for student ID: A0013
+Total marks calculated for student A0013: 74.50, Grade: C
+
+Processing data for student ID: A0014
+Total marks calculated for student A0014: 82.00, Grade: B
+
+Processing data for student ID: A0015
+Total marks calculated for student A0015: 65.50, Grade: D
+
+Processing data for student ID: A0016
+Total marks calculated for student A0016: 93.50, Grade: A
+
+Processing data for student ID: A0017
+Total marks calculated for student A0017: 61.00, Grade: D
+
+Processing data for student ID: A0018
+Total marks calculated for student A0018: 70.50, Grade: C
+
+Processing data for student ID: A0019
+Total marks calculated for student A0019: 77.50, Grade: C
+
+Processing data for student ID: A0020
+Total marks calculated for student A0020: 71.50, Grade: C
+
+---------------------------------------------------------------------------
+Third file creation completed.
+---------------------------------------------------------------------------
+
+		MENU:
+-------------------------------
+1. Display the first file.
+2. Display the second file
+3. Search student record
+4. Add marks
+5. Create third file
+6. Display the third file
+7. Exit
+--------------------------------
+
+Enter your choice: 6
+******************************************************************************
+
+Data from third file:
+
+---------------------------------------------------------------------------
+Student ID     Student Name        Course         Total Grade    
+---------------------------------------------------------------------------
+A001           Ram Lama            Business       67.50, D       
+A002           Mark Timalsina      Business       84.50, B       
+A003           Lina Shrestha       Business       71.00, C       
+A004           Sita Thapa          Business       77.00, C       
+A005           Gita Thapa          Business       80.00, B       
+A006           Hari Basnet         Business       55.50, F       
+A007           Shyamu Kaushal      Business       58.50, F       
+A008           Bipana Magar        Business       68.00, D       
+A009           Sisham Thapa        Business       60.50, D       
+A0010          Riya Chaudary       Business       78.00, C       
+A0011          Arika Basnet        Business       80.00, B       
+A0012          Aayusha Mishra      Business       27.00, F       
+A0013          Aman Ale            Business       74.50, C       
+A0014          Amrita Khadka       Business       82.00, B       
+A0015          Anup Bhattarai      Business       65.50, D       
+A0016          Ann Magar           Business       93.50, A       
+A0017          Asita Mishra        Business       61.00, D       
+A0018          Julia Haart         Business       70.50, C       
+A0019          Nikita Ale          Business       77.50, C       
+A0020          Namuna Chaudhary    Business       71.50, C       
+---------------------------------------------------------------------------
+
+		MENU:
+-------------------------------
+1. Display the first file.
+2. Display the second file
+3. Search student record
+4. Add marks
+5. Create third file
+6. Display the third file
+7. Exit
+--------------------------------
+
+Enter your choice: 7
+******************************************************************************
+THANK YOU!!!
+Exiting the program...
+******************************************************************************
+
+= RESTART: C:\Users\LENOVO\OneDrive - Cambrian College\Case Study\Student Academic Performance Analysis_Final2.py
+
+👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾
+👾		Student Academic Performance Analysis	    👾
+👾  		Programmed by:			            👾
+👾		 Bipul, Anu, Ruchika			    👾
+👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾
+
+		MENU:
+-------------------------------
+1. Display the first file.
+2. Display the second file
+3. Search student record
+4. Add marks
+5. Create third file
+6. Display the third file
+7. Exit
+--------------------------------
+
+Enter your choice: 1
+******************************************************************************
+
+---------------------------------------------
+student_id     student_name        course         
+---------------------------------------------
+A001           Ram Lama            Business       
+A002           Mark Timalsina      Business       
+A003           Lina Shrestha       Business       
+A004           Sita Thapa          Business       
+A005           Gita Thapa          Business       
+A006           Hari Basnet         Business       
+A007           Shyamu Kaushal      Business       
+A008           Bipana Magar        Business       
+A009           Sisham Thapa        Business       
+A0010          Riya Chaudary       Business       
+A0011          Arika Basnet        Business       
+A0012          Aayusha Mishra      Business       
+A0013          Aman Ale            Business       
+A0014          Amrita Khadka       Business       
+A0015          Anup Bhattarai      Business       
+A0016          Ann Magar           Business       
+A0017          Asita Mishra        Business       
+A0018          Julia Haart         Business       
+A0019          Nikita Ale          Business       
+A0020          Namuna Chaudhary    Business       
+---------------------------------------------
+
+		MENU:
+-------------------------------
+1. Display the first file.
+2. Display the second file
+3. Search student record
+4. Add marks
+5. Create third file
+6. Display the third file
+7. Exit
+--------------------------------
+
+Enter your choice: 2
+******************************************************************************
+
+------------------------------------------------------------------------------
+student_id     assignment_name     marks1         quiz_name           marks2              
+------------------------------------------------------------------------------
+A001            Assignment 1        50             Quiz 1              85                 
+A002            Assignment 1        82             Quiz 1              87                 
+A003            Assignment 1        72             Quiz 1              70                 
+A004            Assignment 1        76             Quiz 1              78                 
+A005            Assignment 1        81             Quiz 1              79                 
+A006            Assignment 1        13             Quiz 1              98                 
+A007            Assignment 1        57             Quiz 1              60                 
+A008            Assignment 1        66             Quiz 1              70                 
+A009            Assignment 1        76             Quiz 1              45                 
+A0010           Assignment 1        67             Quiz 1              89                 
+A0011           Assignment 1        73             Quiz 1              87                 
+A0012           Assignment 1        14             Quiz 1              40                 
+A0013           Assignment 1        76             Quiz 1              73                 
+A0014           Assignment 1        86             Quiz 1              78                 
+A0015           Assignment 1        55             Quiz 1              76                 
+A0016           Assignment 1        98             Quiz 1              89                 
+A0017           Assignment 1        77             Quiz 1              45                 
+A0018           Assignment 1        87             Quiz 1              54                 
+A0019           Assignment 1        67             Quiz 1              88                 
+A0020           Assignment 1        88             Quiz 1              55                 
+
+		MENU:
+-------------------------------
+1. Display the first file.
+2. Display the second file
+3. Search student record
+4. Add marks
+5. Create third file
+6. Display the third file
+7. Exit
+--------------------------------
+
+Enter your choice: 3
+******************************************************************************
+Enter the student ID to search: A001
+
+Record found:
+------------------------------
+Student ID      : A001
+Student Name    : Ram Lama
+Course          : Business
+------------------------------
+
+		MENU:
+-------------------------------
+1. Display the first file.
+2. Display the second file
+3. Search student record
+4. Add marks
+5. Create third file
+6. Display the third file
+7. Exit
+--------------------------------
+
+Enter your choice: 4
+******************************************************************************
+Enter the student ID for adding marks: A0021
+Enter the student name: Kushal Rai
+Enter the course: Business
+Enter the assignment marks: 66
+Enter the quiz marks: 56
+---------------------------------------------------------------------------
+Marks added successfully for the new student.
+---------------------------------------------------------------------------
+
+		MENU:
+-------------------------------
+1. Display the first file.
+2. Display the second file
+3. Search student record
+4. Add marks
+5. Create third file
+6. Display the third file
+7. Exit
+--------------------------------
+
+Enter your choice: 5
+******************************************************************************
+Processing data for student ID: A001
+Total marks calculated for student A001: 67.50, Grade: D
+
+Processing data for student ID: A002
+Total marks calculated for student A002: 84.50, Grade: B
+
+Processing data for student ID: A003
+Total marks calculated for student A003: 71.00, Grade: C
+
+Processing data for student ID: A004
+Total marks calculated for student A004: 77.00, Grade: C
+
+Processing data for student ID: A005
+Total marks calculated for student A005: 80.00, Grade: B
+
+Processing data for student ID: A006
+Total marks calculated for student A006: 55.50, Grade: F
+
+Processing data for student ID: A007
+Total marks calculated for student A007: 58.50, Grade: F
+
+Processing data for student ID: A008
+Total marks calculated for student A008: 68.00, Grade: D
+
+Processing data for student ID: A009
+Total marks calculated for student A009: 60.50, Grade: D
+
+Processing data for student ID: A0010
+Total marks calculated for student A0010: 78.00, Grade: C
+
+Processing data for student ID: A0011
+Total marks calculated for student A0011: 80.00, Grade: B
+
+Processing data for student ID: A0012
+Total marks calculated for student A0012: 27.00, Grade: F
+
+Processing data for student ID: A0013
+Total marks calculated for student A0013: 74.50, Grade: C
+
+Processing data for student ID: A0014
+Total marks calculated for student A0014: 82.00, Grade: B
+
+Processing data for student ID: A0015
+Total marks calculated for student A0015: 65.50, Grade: D
+
+Processing data for student ID: A0016
+Total marks calculated for student A0016: 93.50, Grade: A
+
+Processing data for student ID: A0017
+Total marks calculated for student A0017: 61.00, Grade: D
+
+Processing data for student ID: A0018
+Total marks calculated for student A0018: 70.50, Grade: C
+
+Processing data for student ID: A0019
+Total marks calculated for student A0019: 77.50, Grade: C
+
+Processing data for student ID: A0020
+Total marks calculated for student A0020: 71.50, Grade: C
+
+Processing data for student ID: A0021
+Total marks calculated for student A0021: 61.00, Grade: D
+
+---------------------------------------------------------------------------
+Third file creation completed.
+---------------------------------------------------------------------------
+
+		MENU:
+-------------------------------
+1. Display the first file.
+2. Display the second file
+3. Search student record
+4. Add marks
+5. Create third file
+6. Display the third file
+7. Exit
+--------------------------------
+
+Enter your choice: 
+= RESTART: C:\Users\LENOVO\OneDrive - Cambrian College\Case Study\Student Academic Performance Analysis_Final2.py
+
+👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾
+👾		Student Academic Performance Analysis	    👾
+👾  		Programmed by:			            👾
+👾		 Bipul, Anu, Ruchika			    👾
+👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾
+
+		MENU:
+-------------------------------
+1. Display the first file.
+2. Display the second file
+3. Search student record
+4. Add marks
+5. Create third file
+6. Display the third file
+7. Exit
+--------------------------------
+
+Enter your choice: 6
+******************************************************************************
+
+Data from third file:
+
+---------------------------------------------------------------------------
+Student ID     Student Name        Course         Total Grade    
+---------------------------------------------------------------------------
+A001           Ram Lama            Business       67.50, D       
+A002           Mark Timalsina      Business       84.50, B       
+A003           Lina Shrestha       Business       71.00, C       
+A004           Sita Thapa          Business       77.00, C       
+A005           Gita Thapa          Business       80.00, B       
+A006           Hari Basnet         Business       55.50, F       
+A007           Shyamu Kaushal      Business       58.50, F       
+A008           Bipana Magar        Business       68.00, D       
+A009           Sisham Thapa        Business       60.50, D       
+A0010          Riya Chaudary       Business       78.00, C       
+A0011          Arika Basnet        Business       80.00, B       
+A0012          Aayusha Mishra      Business       27.00, F       
+A0013          Aman Ale            Business       74.50, C       
+A0014          Amrita Khadka       Business       82.00, B       
+A0015          Anup Bhattarai      Business       65.50, D       
+A0016          Ann Magar           Business       93.50, A       
+A0017          Asita Mishra        Business       61.00, D       
+A0018          Julia Haart         Business       70.50, C       
+A0019          Nikita Ale          Business       77.50, C       
+A0020          Namuna Chaudhary    Business       71.50, C       
+A0021          Kushal Rai          Business       61.00, D       
+---------------------------------------------------------------------------
+
+		MENU:
+-------------------------------
+1. Display the first file.
+2. Display the second file
+3. Search student record
+4. Add marks
+5. Create third file
+6. Display the third file
+7. Exit
+--------------------------------
+
+Enter your choice: 5
+******************************************************************************
+Processing data for student ID: A001
+Total marks calculated for student A001: 67.50, Grade: D
+
+Processing data for student ID: A002
+Total marks calculated for student A002: 84.50, Grade: B
+
+Processing data for student ID: A003
+Total marks calculated for student A003: 71.00, Grade: C
+
+Processing data for student ID: A004
+Total marks calculated for student A004: 77.00, Grade: C
+
+Processing data for student ID: A005
+Total marks calculated for student A005: 80.00, Grade: B
+
+Processing data for student ID: A006
+Total marks calculated for student A006: 55.50, Grade: F
+
+Processing data for student ID: A007
+Total marks calculated for student A007: 58.50, Grade: F
+
+Processing data for student ID: A008
+Total marks calculated for student A008: 68.00, Grade: D
+
+Processing data for student ID: A009
+Total marks calculated for student A009: 60.50, Grade: D
+
+Processing data for student ID: A0010
+Total marks calculated for student A0010: 78.00, Grade: C
+
+Processing data for student ID: A0011
+Total marks calculated for student A0011: 80.00, Grade: B
+
+Processing data for student ID: A0012
+Total marks calculated for student A0012: 27.00, Grade: F
+
+Processing data for student ID: A0013
+Total marks calculated for student A0013: 74.50, Grade: C
+
+Processing data for student ID: A0014
+Total marks calculated for student A0014: 82.00, Grade: B
+
+Processing data for student ID: A0015
+Total marks calculated for student A0015: 65.50, Grade: D
+
+Processing data for student ID: A0016
+Total marks calculated for student A0016: 93.50, Grade: A
+
+Processing data for student ID: A0017
+Total marks calculated for student A0017: 61.00, Grade: D
+
+Processing data for student ID: A0018
+Total marks calculated for student A0018: 70.50, Grade: C
+
+Processing data for student ID: A0019
+Total marks calculated for student A0019: 77.50, Grade: C
+
+Processing data for student ID: A0020
+Total marks calculated for student A0020: 71.50, Grade: C
+
+Processing data for student ID: A0021
+Total marks calculated for student A0021: 61.00, Grade: D
+
+Skipping empty line...
+---------------------------------------------------------------------------
+Third file creation completed.
+---------------------------------------------------------------------------
+
+		MENU:
+-------------------------------
+1. Display the first file.
+2. Display the second file
+3. Search student record
+4. Add marks
+5. Create third file
+6. Display the third file
+7. Exit
+--------------------------------
+
+Enter your choice: 
+= RESTART: C:\Users\LENOVO\OneDrive - Cambrian College\Case Study\Student Academic Performance Analysis_Final2.py
+
+👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾
+👾		Student Academic Performance Analysis	    👾
+👾  		Programmed by:			            👾
+👾		 Bipul, Anu, Ruchika			    👾
+👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾
+
+		MENU:
+-------------------------------
+1. Display the first file.
+2. Display the second file
+3. Search student record
+4. Add marks
+5. Create third file
+6. Display the third file
+7. Exit
+--------------------------------
+
+Enter your choice: 3
+******************************************************************************
+Enter the student ID to search: A0020
+
+Record found:
+------------------------------
+Student ID      : A0020
+Student Name    : Namuna Chaudhary
+Course          : Business
+------------------------------
+
+		MENU:
+-------------------------------
+1. Display the first file.
+2. Display the second file
+3. Search student record
+4. Add marks
+5. Create third file
+6. Display the third file
+7. Exit
+--------------------------------
+
+Enter your choice: 4
+******************************************************************************
+Enter the student ID for adding marks: A0022
+Enter the student name: Selsa Chaudhary
+Enter the course: Business
+Enter the assignment marks: 90
+Enter the quiz marks: 88
+---------------------------------------------------------------------------
+Marks added successfully for the new student.
+---------------------------------------------------------------------------
+
+		MENU:
+-------------------------------
+1. Display the first file.
+2. Display the second file
+3. Search student record
+4. Add marks
+5. Create third file
+6. Display the third file
+7. Exit
+--------------------------------
+
+Enter your choice: 5
+******************************************************************************
+Processing data for student ID: A001
+Total marks calculated for student A001: 67.50, Grade: D
+
+Processing data for student ID: A002
+Total marks calculated for student A002: 84.50, Grade: B
+
+Processing data for student ID: A003
+Total marks calculated for student A003: 71.00, Grade: C
+
+Processing data for student ID: A004
+Total marks calculated for student A004: 77.00, Grade: C
+
+Processing data for student ID: A005
+Total marks calculated for student A005: 80.00, Grade: B
+
+Processing data for student ID: A006
+Total marks calculated for student A006: 55.50, Grade: F
+
+Processing data for student ID: A007
+Total marks calculated for student A007: 58.50, Grade: F
+
+Processing data for student ID: A008
+Total marks calculated for student A008: 68.00, Grade: D
+
+Processing data for student ID: A009
+Total marks calculated for student A009: 60.50, Grade: D
+
+Processing data for student ID: A0010
+Total marks calculated for student A0010: 78.00, Grade: C
+
+Processing data for student ID: A0011
+Total marks calculated for student A0011: 80.00, Grade: B
+
+Processing data for student ID: A0012
+Total marks calculated for student A0012: 27.00, Grade: F
+
+Processing data for student ID: A0013
+Total marks calculated for student A0013: 74.50, Grade: C
+
+Processing data for student ID: A0014
+Total marks calculated for student A0014: 82.00, Grade: B
+
+Processing data for student ID: A0015
+Total marks calculated for student A0015: 65.50, Grade: D
+
+Processing data for student ID: A0016
+Total marks calculated for student A0016: 93.50, Grade: A
+
+Processing data for student ID: A0017
+Total marks calculated for student A0017: 61.00, Grade: D
+
+Processing data for student ID: A0018
+Total marks calculated for student A0018: 70.50, Grade: C
+
+Processing data for student ID: A0019
+Total marks calculated for student A0019: 77.50, Grade: C
+
+Processing data for student ID: A0020
+Total marks calculated for student A0020: 71.50, Grade: C
+
+Processing data for student ID: A0021
+Total marks calculated for student A0021: 61.00, Grade: D
+
+Processing data for student ID: A0022
+Total marks calculated for student A0022: 89.00, Grade: B
+
+Skipping empty line...
+---------------------------------------------------------------------------
+Third file creation completed.
+---------------------------------------------------------------------------
+
+		MENU:
+-------------------------------
+1. Display the first file.
+2. Display the second file
+3. Search student record
+4. Add marks
+5. Create third file
+6. Display the third file
+7. Exit
+--------------------------------
+
+Enter your choice: 6
+******************************************************************************
+
+Data from third file:
+
+---------------------------------------------------------------------------
+Student ID     Student Name        Course         Total Grade    
+---------------------------------------------------------------------------
+A001           Ram Lama            Business       67.50, D       
+A002           Mark Timalsina      Business       84.50, B       
+A003           Lina Shrestha       Business       71.00, C       
+A004           Sita Thapa          Business       77.00, C       
+A005           Gita Thapa          Business       80.00, B       
+A006           Hari Basnet         Business       55.50, F       
+A007           Shyamu Kaushal      Business       58.50, F       
+A008           Bipana Magar        Business       68.00, D       
+A009           Sisham Thapa        Business       60.50, D       
+A0010          Riya Chaudary       Business       78.00, C       
+A0011          Arika Basnet        Business       80.00, B       
+A0012          Aayusha Mishra      Business       27.00, F       
+A0013          Aman Ale            Business       74.50, C       
+A0014          Amrita Khadka       Business       82.00, B       
+A0015          Anup Bhattarai      Business       65.50, D       
+A0016          Ann Magar           Business       93.50, A       
+A0017          Asita Mishra        Business       61.00, D       
+A0018          Julia Haart         Business       70.50, C       
+A0019          Nikita Ale          Business       77.50, C       
+A0020          Namuna Chaudhary    Business       71.50, C       
+A0021          Kushal Rai          Business       61.00, D       
+A0022          Selsa Chaudhary     Business       89.00, B       
+---------------------------------------------------------------------------
+
+		MENU:
+-------------------------------
+1. Display the first file.
+2. Display the second file
+3. Search student record
+4. Add marks
+5. Create third file
+6. Display the third file
+7. Exit
+--------------------------------
+
+Enter your choice: 7
+******************************************************************************
+THANK YOU!!!
+Exiting the program...
+******************************************************************************
+
+= RESTART: C:\Users\LENOVO\OneDrive - Cambrian College\Case Study\Student Academic Performance Analysis_Final2.py
+
+👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾
+👾		Student Academic Performance Analysis	    👾
+👾  		Programmed by:			            👾
+👾		 Bipul, Anu, Ruchika			    👾
+👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾
+
+		MENU:
+-------------------------------
+1. Display the first file.
+2. Display the second file
+3. Search student record
+4. Add marks
+5. Create third file
+6. Display the third file
+7. Exit
+--------------------------------
+
+Enter your choice: 1
+******************************************************************************
+
+---------------------------------------------
+student_id     student_name        course         
+---------------------------------------------
+A001           Ram Lama            Business       
+A002           Mark Timalsina      Business       
+A003           Lina Shrestha       Business       
+A004           Sita Thapa          Business       
+A005           Gita Thapa          Business       
+A006           Hari Basnet         Business       
+A007           Shyamu Kaushal      Business       
+A008           Bipana Magar        Business       
+A009           Sisham Thapa        Business       
+A0010          Riya Chaudary       Business       
+A0011          Arika Basnet        Business       
+A0012          Aayusha Mishra      Business       
+A0013          Aman Ale            Business       
+A0014          Amrita Khadka       Business       
+A0015          Anup Bhattarai      Business       
+A0016          Ann Magar           Business       
+A0017          Asita Mishra        Business       
+A0018          Julia Haart         Business       
+A0019          Nikita Ale          Business       
+A0020          Namuna Chaudhary    Business       
+A0021          Kushal Rai          Business       
+A0022          Selsa Chaudhary     Business       
+---------------------------------------------
+
+		MENU:
+-------------------------------
+1. Display the first file.
+2. Display the second file
+3. Search student record
+4. Add marks
+5. Create third file
+6. Display the third file
+7. Exit
+--------------------------------
+
+Enter your choice: 2
+******************************************************************************
+
+------------------------------------------------------------------------------
+student_id     assignment_name     marks1         quiz_name           marks2              
+------------------------------------------------------------------------------
+A001            Assignment 1        50             Quiz 1              85                 
+A002            Assignment 1        82             Quiz 1              87                 
+A003            Assignment 1        72             Quiz 1              70                 
+A004            Assignment 1        76             Quiz 1              78                 
+A005            Assignment 1        81             Quiz 1              79                 
+A006            Assignment 1        13             Quiz 1              98                 
+A007            Assignment 1        57             Quiz 1              60                 
+A008            Assignment 1        66             Quiz 1              70                 
+A009            Assignment 1        76             Quiz 1              45                 
+A0010           Assignment 1        67             Quiz 1              89                 
+A0011           Assignment 1        73             Quiz 1              87                 
+A0012           Assignment 1        14             Quiz 1              40                 
+A0013           Assignment 1        76             Quiz 1              73                 
+A0014           Assignment 1        86             Quiz 1              78                 
+A0015           Assignment 1        55             Quiz 1              76                 
+A0016           Assignment 1        98             Quiz 1              89                 
+A0017           Assignment 1        77             Quiz 1              45                 
+A0018           Assignment 1        87             Quiz 1              54                 
+A0019           Assignment 1        67             Quiz 1              88                 
+A0020           Assignment 1        88             Quiz 1              55                 
+A0021           Assignment 1        66             Quiz 1              56                 
+A0022           Assignment 1        90             Quiz 1              88                 
+
+		MENU:
+-------------------------------
+1. Display the first file.
+2. Display the second file
+3. Search student record
+4. Add marks
+5. Create third file
+6. Display the third file
+7. Exit
+--------------------------------
+
+Enter your choice: 3
+******************************************************************************
+Enter the student ID to search: A0015
+
+Record found:
+------------------------------
+Student ID      : A0015
+Student Name    : Anup Bhattarai
+Course          : Business
+------------------------------
+
+		MENU:
+-------------------------------
+1. Display the first file.
+2. Display the second file
+3. Search student record
+4. Add marks
+5. Create third file
+6. Display the third file
+7. Exit
+--------------------------------
+
+Enter your choice: 4
+******************************************************************************
+Enter the student ID for adding marks: A0023
+Enter the student name: Nabin Thapa
+Enter the course: 88
+Enter the assignment marks: 66
+Enter the quiz marks: 
+
+Error: Invalid input for marks. Please enter numeric values.
+
+		MENU:
+-------------------------------
+1. Display the first file.
+2. Display the second file
+3. Search student record
+4. Add marks
+5. Create third file
+6. Display the third file
+7. Exit
+--------------------------------
+
+Enter your choice: 4
+******************************************************************************
+Enter the student ID for adding marks: A0023
+Enter the student name: Nabin Thapa
+Enter the course: Business
+Enter the assignment marks: 67
+Enter the quiz marks: 45
+---------------------------------------------------------------------------
+Marks added successfully for the new student.
+---------------------------------------------------------------------------
+
+		MENU:
+-------------------------------
+1. Display the first file.
+2. Display the second file
+3. Search student record
+4. Add marks
+5. Create third file
+6. Display the third file
+7. Exit
+--------------------------------
+
+Enter your choice: 5
+******************************************************************************
+Processing data for student ID: A001
+Total marks calculated for student A001: 67.50, Grade: D
+
+Processing data for student ID: A002
+Total marks calculated for student A002: 84.50, Grade: B
+
+Processing data for student ID: A003
+Total marks calculated for student A003: 71.00, Grade: C
+
+Processing data for student ID: A004
+Total marks calculated for student A004: 77.00, Grade: C
+
+Processing data for student ID: A005
+Total marks calculated for student A005: 80.00, Grade: B
+
+Processing data for student ID: A006
+Total marks calculated for student A006: 55.50, Grade: F
+
+Processing data for student ID: A007
+Total marks calculated for student A007: 58.50, Grade: F
+
+Processing data for student ID: A008
+Total marks calculated for student A008: 68.00, Grade: D
+
+Processing data for student ID: A009
+Total marks calculated for student A009: 60.50, Grade: D
+
+Processing data for student ID: A0010
+Total marks calculated for student A0010: 78.00, Grade: C
+
+Processing data for student ID: A0011
+Total marks calculated for student A0011: 80.00, Grade: B
+
+Processing data for student ID: A0012
+Total marks calculated for student A0012: 27.00, Grade: F
+
+Processing data for student ID: A0013
+Total marks calculated for student A0013: 74.50, Grade: C
+
+Processing data for student ID: A0014
+Total marks calculated for student A0014: 82.00, Grade: B
+
+Processing data for student ID: A0015
+Total marks calculated for student A0015: 65.50, Grade: D
+
+Processing data for student ID: A0016
+Total marks calculated for student A0016: 93.50, Grade: A
+
+Processing data for student ID: A0017
+Total marks calculated for student A0017: 61.00, Grade: D
+
+Processing data for student ID: A0018
+Total marks calculated for student A0018: 70.50, Grade: C
+
+Processing data for student ID: A0019
+Total marks calculated for student A0019: 77.50, Grade: C
+
+Processing data for student ID: A0020
+Total marks calculated for student A0020: 71.50, Grade: C
+
+Processing data for student ID: A0021
+Total marks calculated for student A0021: 61.00, Grade: D
+
+Processing data for student ID: A0022
+Total marks calculated for student A0022: 89.00, Grade: B
+
+Processing data for student ID: A0023
+Total marks calculated for student A0023: 56.00, Grade: F
+
+Skipping empty line...
+---------------------------------------------------------------------------
+Third file creation completed.
+---------------------------------------------------------------------------
+
+		MENU:
+-------------------------------
+1. Display the first file.
+2. Display the second file
+3. Search student record
+4. Add marks
+5. Create third file
+6. Display the third file
+7. Exit
+--------------------------------
+
+Enter your choice: 6
+******************************************************************************
+
+Data from third file:
+
+---------------------------------------------------------------------------
+Student ID     Student Name        Course         Total Grade    
+---------------------------------------------------------------------------
+A001           Ram Lama            Business       67.50, D       
+A002           Mark Timalsina      Business       84.50, B       
+A003           Lina Shrestha       Business       71.00, C       
+A004           Sita Thapa          Business       77.00, C       
+A005           Gita Thapa          Business       80.00, B       
+A006           Hari Basnet         Business       55.50, F       
+A007           Shyamu Kaushal      Business       58.50, F       
+A008           Bipana Magar        Business       68.00, D       
+A009           Sisham Thapa        Business       60.50, D       
+A0010          Riya Chaudary       Business       78.00, C       
+A0011          Arika Basnet        Business       80.00, B       
+A0012          Aayusha Mishra      Business       27.00, F       
+A0013          Aman Ale            Business       74.50, C       
+A0014          Amrita Khadka       Business       82.00, B       
+A0015          Anup Bhattarai      Business       65.50, D       
+A0016          Ann Magar           Business       93.50, A       
+A0017          Asita Mishra        Business       61.00, D       
+A0018          Julia Haart         Business       70.50, C       
+A0019          Nikita Ale          Business       77.50, C       
+A0020          Namuna Chaudhary    Business       71.50, C       
+A0021          Kushal Rai          Business       61.00, D       
+A0022          Selsa Chaudhary     Business       89.00, B       
+A0023          Nabin Thapa         Business       56.00, F       
+---------------------------------------------------------------------------
+
+		MENU:
+-------------------------------
+1. Display the first file.
+2. Display the second file
+3. Search student record
+4. Add marks
+5. Create third file
+6. Display the third file
+7. Exit
+--------------------------------
+
+Enter your choice: 7
+******************************************************************************
+THANK YOU!!!
+Exiting the program...
+******************************************************************************
+
+= RESTART: C:\Users\LENOVO\OneDrive - Cambrian College\Case Study\Student Academic Performance Analysis_Final2.py
+
+👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾
+👾		Student Academic Performance Analysis	    👾
+👾  		Programmed by:			            👾
+👾		 Bipul, Anu, Ruchika			    👾
+👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾
+
+		MENU:
+-------------------------------
+1. Display the first file.
+2. Display the second file
+3. Search student record
+4. Add marks
+5. Create third file
+6. Display the third file
+7. Exit
+--------------------------------
+
+Enter your choice: 5
+******************************************************************************
+Processing data for student ID: A001
+Total marks calculated for student A001: 67.50, Grade: D
+
+Processing data for student ID: A002
+Total marks calculated for student A002: 84.50, Grade: B
+
+Processing data for student ID: A003
+Total marks calculated for student A003: 71.00, Grade: C
+
+Processing data for student ID: A004
+Total marks calculated for student A004: 77.00, Grade: C
+
+Processing data for student ID: A005
+Total marks calculated for student A005: 80.00, Grade: B
+
+Processing data for student ID: A006
+Total marks calculated for student A006: 55.50, Grade: F
+
+Processing data for student ID: A007
+Total marks calculated for student A007: 58.50, Grade: F
+
+Processing data for student ID: A008
+Total marks calculated for student A008: 68.00, Grade: D
+
+Processing data for student ID: A009
+Total marks calculated for student A009: 60.50, Grade: D
+
+Processing data for student ID: A0010
+Total marks calculated for student A0010: 78.00, Grade: C
+
+Processing data for student ID: A0011
+Total marks calculated for student A0011: 80.00, Grade: B
+
+Processing data for student ID: A0012
+Total marks calculated for student A0012: 27.00, Grade: F
+
+Processing data for student ID: A0013
+Total marks calculated for student A0013: 74.50, Grade: C
+
+Processing data for student ID: A0014
+Total marks calculated for student A0014: 82.00, Grade: B
+
+Processing data for student ID: A0015
+Total marks calculated for student A0015: 65.50, Grade: D
+
+Processing data for student ID: A0016
+Total marks calculated for student A0016: 93.50, Grade: A
+
+Processing data for student ID: A0017
+Total marks calculated for student A0017: 61.00, Grade: D
+
+Processing data for student ID: A0018
+Total marks calculated for student A0018: 70.50, Grade: C
+
+Processing data for student ID: A0019
+Total marks calculated for student A0019: 77.50, Grade: C
+
+Processing data for student ID: A0020
+Total marks calculated for student A0020: 71.50, Grade: C
+
+Processing data for student ID: A0021
+Total marks calculated for student A0021: 61.00, Grade: D
+
+Processing data for student ID: A0022
+Total marks calculated for student A0022: 89.00, Grade: B
+
+Processing data for student ID: A0023
+Total marks calculated for student A0023: 56.00, Grade: F
+
+---------------------------------------------------------------------------
+Third file creation completed.
+---------------------------------------------------------------------------
+
+		MENU:
+-------------------------------
+1. Display the first file.
+2. Display the second file
+3. Search student record
+4. Add marks
+5. Create third file
+6. Display the third file
+7. Exit
+--------------------------------
+
+Enter your choice: 6
+******************************************************************************
+
+Data from third file:
+
+---------------------------------------------------------------------------
+Student ID     Student Name        Course         Total Grade    
+---------------------------------------------------------------------------
+A001           Ram Lama            Business       67.50, D       
+A002           Mark Timalsina      Business       84.50, B       
+A003           Lina Shrestha       Business       71.00, C       
+A004           Sita Thapa          Business       77.00, C       
+A005           Gita Thapa          Business       80.00, B       
+A006           Hari Basnet         Business       55.50, F       
+A007           Shyamu Kaushal      Business       58.50, F       
+A008           Bipana Magar        Business       68.00, D       
+A009           Sisham Thapa        Business       60.50, D       
+A0010          Riya Chaudary       Business       78.00, C       
+A0011          Arika Basnet        Business       80.00, B       
+A0012          Aayusha Mishra      Business       27.00, F       
+A0013          Aman Ale            Business       74.50, C       
+A0014          Amrita Khadka       Business       82.00, B       
+A0015          Anup Bhattarai      Business       65.50, D       
+A0016          Ann Magar           Business       93.50, A       
+A0017          Asita Mishra        Business       61.00, D       
+A0018          Julia Haart         Business       70.50, C       
+A0019          Nikita Ale          Business       77.50, C       
+A0020          Namuna Chaudhary    Business       71.50, C       
+A0021          Kushal Rai          Business       61.00, D       
+A0022          Selsa Chaudhary     Business       89.00, B       
+A0023          Nabin Thapa         Business       56.00, F       
+---------------------------------------------------------------------------
+
+		MENU:
+-------------------------------
+1. Display the first file.
+2. Display the second file
+3. Search student record
+4. Add marks
+5. Create third file
+6. Display the third file
+7. Exit
+--------------------------------
+
+Enter your choice: 7
+******************************************************************************
+THANK YOU!!!
+Exiting the program...
+******************************************************************************
+
+= RESTART: C:\Users\LENOVO\OneDrive - Cambrian College\Case Study\Final_Student Academic Performance Analysis.py
+
+👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾
+👾		Student Academic Performance Analysis	    👾
+👾  		Programmed by:			            👾
+👾		 Bipul, Anu, Ruchika			    👾
+👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾
+
+		MENU:
+---------------------------------------------------
+1. Read and display content from the first file.
+2. Read and display content from the second file
+3. Search student record
+4. Add marks
+5. Create third file
+6. Display third file
+7. Exit
+-----------------------------------------------------
+
+Enter your choice: 
+= RESTART: C:\Users\LENOVO\OneDrive - Cambrian College\Case Study\Final_Student Academic Performance Analysis.py
+
+👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾
+👾		Student Academic Performance Analysis	    👾
+👾  		Programmed by:			            👾
+👾		 Bipul, Anu, Ruchika			    👾
+👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾
+
+		MENU:
+---------------------------------------------------
+1. Read and display content from the first file.
+2. Read and display content from the second file
+3. Search student record
+4. Add marks
+5. Create third file
+6. Display third file
+7. Exit
+-----------------------------------------------------
+
+Enter your choice: 6
+******************************************************************************
+
+Data from third file:
+
+---------------------------------------------------------------------------
+Student ID     Student Name        Course         Total Grade    
+---------------------------------------------------------------------------
+A001           Ram Lama            Business       67.50, D       
+A002           Mark Timalsina      Business       84.50, B       
+A003           Lina Shrestha       Business       71.00, C       
+A004           Sita Thapa          Business       77.00, C       
+A005           Gita Thapa          Business       80.00, B       
+A006           Hari Basnet         Business       55.50, F       
+A007           Shyamu Kaushal      Business       58.50, F       
+A008           Bipana Magar        Business       68.00, D       
+A009           Sisham Thapa        Business       60.50, D       
+A0010          Riya Chaudary       Business       78.00, C       
+A0011          Arika Basnet        Business       80.00, B       
+A0012          Aayusha Mishra      Business       27.00, F       
+A0013          Aman Ale            Business       74.50, C       
+A0014          Amrita Khadka       Business       82.00, B       
+A0015          Anup Bhattarai      Business       65.50, D       
+A0016          Ann Magar           Business       93.50, A       
+A0017          Asita Mishra        Business       61.00, D       
+A0018          Julia Haart         Business       70.50, C       
+A0019          Nikita Ale          Business       77.50, C       
+A0020          Namuna Chaudhary    Business       71.50, C       
+A0021          Kushal Rai          Business       61.00, D       
+A0022          Selsa Chaudhary     Business       89.00, B       
+A0023          Nabin Thapa         Business       56.00, F       
+---------------------------------------------------------------------------
+
+		MENU:
+---------------------------------------------------
+1. Read and display content from the first file.
+2. Read and display content from the second file
+3. Search student record
+4. Add marks
+5. Create third file
+6. Display third file
+7. Exit
+-----------------------------------------------------
+
+Enter your choice: 5
+******************************************************************************
+Processing data for student ID: A001
+Total marks calculated for student A001: 0.00, Grade: F
+
+Processing data for student ID: A002
+Total marks calculated for student A002: 84.50, Grade: B
+
+Processing data for student ID: A003
+Total marks calculated for student A003: 71.00, Grade: C
+
+Processing data for student ID: A004
+Total marks calculated for student A004: 77.00, Grade: C
+
+Processing data for student ID: A005
+Total marks calculated for student A005: 80.00, Grade: B
+
+Processing data for student ID: A006
+Total marks calculated for student A006: 55.50, Grade: F
+
+Processing data for student ID: A007
+Total marks calculated for student A007: 58.50, Grade: F
+
+Processing data for student ID: A008
+Total marks calculated for student A008: 68.00, Grade: D
+
+Processing data for student ID: A009
+Total marks calculated for student A009: 60.50, Grade: D
+
+Processing data for student ID: A0010
+Total marks calculated for student A0010: 78.00, Grade: C
+
+Processing data for student ID: A0011
+Total marks calculated for student A0011: 80.00, Grade: B
+
+Processing data for student ID: A0012
+Total marks calculated for student A0012: 27.00, Grade: F
+
+Processing data for student ID: A0013
+Total marks calculated for student A0013: 74.50, Grade: C
+
+Processing data for student ID: A0014
+Total marks calculated for student A0014: 82.00, Grade: B
+
+Processing data for student ID: A0015
+Total marks calculated for student A0015: 65.50, Grade: D
+
+Processing data for student ID: A0016
+Total marks calculated for student A0016: 93.50, Grade: A
+
+Processing data for student ID: A0017
+Total marks calculated for student A0017: 61.00, Grade: D
+
+Processing data for student ID: A0018
+Total marks calculated for student A0018: 70.50, Grade: C
+
+Processing data for student ID: A0019
+Total marks calculated for student A0019: 77.50, Grade: C
+
+Processing data for student ID: A0020
+Total marks calculated for student A0020: 71.50, Grade: C
+
+Processing data for student ID: A0021
+Total marks calculated for student A0021: 61.00, Grade: D
+
+Processing data for student ID: A0022
+Total marks calculated for student A0022: 89.00, Grade: B
+
+Processing data for student ID: A0023
+Total marks calculated for student A0023: 56.00, Grade: F
+
+---------------------------------------------------------------------------
+Third file creation completed.
+---------------------------------------------------------------------------
+
+		MENU:
+---------------------------------------------------
+1. Read and display content from the first file.
+2. Read and display content from the second file
+3. Search student record
+4. Add marks
+5. Create third file
+6. Display third file
+7. Exit
+-----------------------------------------------------
+
+Enter your choice: 
+= RESTART: C:\Users\LENOVO\OneDrive - Cambrian College\Case Study\Student Academic Performance Analysis_Final2.py
+
+👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾
+👾		Student Academic Performance Analysis	    👾
+👾  		Programmed by:			            👾
+👾		 Bipul, Anu, Ruchika			    👾
+👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾
+
+		MENU:
+-------------------------------
+1. Display the first file.
+2. Display the second file
+3. Search student record
+4. Add marks
+5. Create third file
+6. Display the third file
+7. Exit
+--------------------------------
+
+Enter your choice: 5
+******************************************************************************
+Processing data for student ID: A001
+Total marks calculated for student A001: 67.50, Grade: D
+
+Processing data for student ID: A002
+Total marks calculated for student A002: 84.50, Grade: B
+
+Processing data for student ID: A003
+Total marks calculated for student A003: 71.00, Grade: C
+
+Processing data for student ID: A004
+Total marks calculated for student A004: 77.00, Grade: C
+
+Processing data for student ID: A005
+Total marks calculated for student A005: 80.00, Grade: B
+
+Processing data for student ID: A006
+Total marks calculated for student A006: 55.50, Grade: F
+
+Processing data for student ID: A007
+Total marks calculated for student A007: 58.50, Grade: F
+
+Processing data for student ID: A008
+Total marks calculated for student A008: 68.00, Grade: D
+
+Processing data for student ID: A009
+Total marks calculated for student A009: 60.50, Grade: D
+
+Processing data for student ID: A0010
+Total marks calculated for student A0010: 78.00, Grade: C
+
+Processing data for student ID: A0011
+Total marks calculated for student A0011: 80.00, Grade: B
+
+Processing data for student ID: A0012
+Total marks calculated for student A0012: 27.00, Grade: F
+
+Processing data for student ID: A0013
+Total marks calculated for student A0013: 74.50, Grade: C
+
+Processing data for student ID: A0014
+Total marks calculated for student A0014: 82.00, Grade: B
+
+Processing data for student ID: A0015
+Total marks calculated for student A0015: 65.50, Grade: D
+
+Processing data for student ID: A0016
+Total marks calculated for student A0016: 93.50, Grade: A
+
+Processing data for student ID: A0017
+Total marks calculated for student A0017: 61.00, Grade: D
+
+Processing data for student ID: A0018
+Total marks calculated for student A0018: 70.50, Grade: C
+
+Processing data for student ID: A0019
+Total marks calculated for student A0019: 77.50, Grade: C
+
+Processing data for student ID: A0020
+Total marks calculated for student A0020: 71.50, Grade: C
+
+Processing data for student ID: A0021
+Total marks calculated for student A0021: 61.00, Grade: D
+
+Skipping empty line...
+Skipping empty line...
+Skipping empty line...
+Processing data for student ID: A0022
+Total marks calculated for student A0022: 89.00, Grade: B
+
+Processing data for student ID: A0023
+Total marks calculated for student A0023: 56.00, Grade: F
+
+---------------------------------------------------------------------------
+Third file creation completed.
+---------------------------------------------------------------------------
+
+		MENU:
+-------------------------------
+1. Display the first file.
+2. Display the second file
+3. Search student record
+4. Add marks
+5. Create third file
+6. Display the third file
+7. Exit
+--------------------------------
+
+Enter your choice: 5
+******************************************************************************
+Processing data for student ID: A001
+Total marks calculated for student A001: 67.50, Grade: D
+
+Processing data for student ID: A002
+Total marks calculated for student A002: 84.50, Grade: B
+
+Processing data for student ID: A003
+Total marks calculated for student A003: 71.00, Grade: C
+
+Processing data for student ID: A004
+Total marks calculated for student A004: 77.00, Grade: C
+
+Processing data for student ID: A005
+Total marks calculated for student A005: 80.00, Grade: B
+
+Processing data for student ID: A006
+Total marks calculated for student A006: 55.50, Grade: F
+
+Processing data for student ID: A007
+Total marks calculated for student A007: 58.50, Grade: F
+
+Processing data for student ID: A008
+Total marks calculated for student A008: 68.00, Grade: D
+
+Processing data for student ID: A009
+Total marks calculated for student A009: 60.50, Grade: D
+
+Processing data for student ID: A0010
+Total marks calculated for student A0010: 78.00, Grade: C
+
+Processing data for student ID: A0011
+Total marks calculated for student A0011: 80.00, Grade: B
+
+Processing data for student ID: A0012
+Total marks calculated for student A0012: 27.00, Grade: F
+
+Processing data for student ID: A0013
+Total marks calculated for student A0013: 74.50, Grade: C
+
+Processing data for student ID: A0014
+Total marks calculated for student A0014: 82.00, Grade: B
+
+Processing data for student ID: A0015
+Total marks calculated for student A0015: 65.50, Grade: D
+
+Processing data for student ID: A0016
+Total marks calculated for student A0016: 93.50, Grade: A
+
+Processing data for student ID: A0017
+Total marks calculated for student A0017: 61.00, Grade: D
+
+Processing data for student ID: A0018
+Total marks calculated for student A0018: 70.50, Grade: C
+
+Processing data for student ID: A0019
+Total marks calculated for student A0019: 77.50, Grade: C
+
+Processing data for student ID: A0020
+Total marks calculated for student A0020: 71.50, Grade: C
+
+Processing data for student ID: A0021
+Total marks calculated for student A0021: 61.00, Grade: D
+
+Skipping empty line...
+Skipping empty line...
+Skipping empty line...
+Processing data for student ID: A0022
+Total marks calculated for student A0022: 89.00, Grade: B
+
+Processing data for student ID: A0023
+Total marks calculated for student A0023: 56.00, Grade: F
+
+---------------------------------------------------------------------------
+Third file creation completed.
+---------------------------------------------------------------------------
+
+		MENU:
+-------------------------------
+1. Display the first file.
+2. Display the second file
+3. Search student record
+4. Add marks
+5. Create third file
+6. Display the third file
+7. Exit
+--------------------------------
+
+Enter your choice: 6
+******************************************************************************
+
+Data from third file:
+
+---------------------------------------------------------------------------
+Student ID     Student Name        Course         Total Grade    
+---------------------------------------------------------------------------
+A001           Ram Lama            Business       67.50, D       
+A002           Mark Timalsina      Business       84.50, B       
+A003           Lina Shrestha       Business       71.00, C       
+A004           Sita Thapa          Business       77.00, C       
+A005           Gita Thapa          Business       80.00, B       
+A006           Hari Basnet         Business       55.50, F       
+A007           Shyamu Kaushal      Business       58.50, F       
+A008           Bipana Magar        Business       68.00, D       
+A009           Sisham Thapa        Business       60.50, D       
+A0010          Riya Chaudary       Business       78.00, C       
+A0011          Arika Basnet        Business       80.00, B       
+A0012          Aayusha Mishra      Business       27.00, F       
+A0013          Aman Ale            Business       74.50, C       
+A0014          Amrita Khadka       Business       82.00, B       
+A0015          Anup Bhattarai      Business       65.50, D       
+A0016          Ann Magar           Business       93.50, A       
+A0017          Asita Mishra        Business       61.00, D       
+A0018          Julia Haart         Business       70.50, C       
+A0019          Nikita Ale          Business       77.50, C       
+A0020          Namuna Chaudhary    Business       71.50, C       
+A0021          Kushal Rai          Business       61.00, D       
+A0022          Selsa Chaudhary     Business       89.00, B       
+A0023          Nabin Thapa         Business       56.00, F       
+---------------------------------------------------------------------------
+
+		MENU:
+-------------------------------
+1. Display the first file.
+2. Display the second file
+3. Search student record
+4. Add marks
+5. Create third file
+6. Display the third file
+7. Exit
+--------------------------------
+
+Enter your choice: 
+= RESTART: C:\Users\LENOVO\OneDrive - Cambrian College\Case Study\Student Academic Performance Analysis_Final2.py
+
+👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾
+👾		Student Academic Performance Analysis	    👾
+👾  		Programmed by:			            👾
+👾		 Bipul, Anu, Ruchika			    👾
+👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾
+
+		MENU:
+-------------------------------
+1. Display the first file.
+2. Display the second file
+3. Search student record
+4. Add marks
+5. Create third file
+6. Display the third file
+7. Exit
+--------------------------------
+
+Enter your choice: 1
+******************************************************************************
+
+---------------------------------------------
+student_id     student_name        course         
+---------------------------------------------
+A001           Ram Lama            Business       
+A002           Mark Timalsina      Business       
+A003           Lina Shrestha       Business       
+A004           Sita Thapa          Business       
+A005           Gita Thapa          Business       
+A006           Hari Basnet         Business       
+A007           Shyamu Kaushal      Business       
+A008           Bipana Magar        Business       
+A009           Sisham Thapa        Business       
+A0010          Riya Chaudary       Business       
+A0011          Arika Basnet        Business       
+A0012          Aayusha Mishra      Business       
+A0013          Aman Ale            Business       
+A0014          Amrita Khadka       Business       
+A0015          Anup Bhattarai      Business       
+A0016          Ann Magar           Business       
+A0017          Asita Mishra        Business       
+A0018          Julia Haart         Business       
+A0019          Nikita Ale          Business       
+A0020          Namuna Chaudhary    Business       
+A0021          Kushal Rai          Business       
+A0022          Selsa Chaudhary     Business       
+A0023          Nabin Thapa         Business       
+---------------------------------------------
+
+		MENU:
+-------------------------------
+1. Display the first file.
+2. Display the second file
+3. Search student record
+4. Add marks
+5. Create third file
+6. Display the third file
+7. Exit
+--------------------------------
+
+Enter your choice: 2
+******************************************************************************
+
+------------------------------------------------------------------------------
+student_id     assignment_name     marks1         quiz_name           marks2              
+------------------------------------------------------------------------------
+A001            Assignment 1        50             Quiz 1              85                 
+A002            Assignment 1        82             Quiz 1              87                 
+A003            Assignment 1        72             Quiz 1              70                 
+A004            Assignment 1        76             Quiz 1              78                 
+A005            Assignment 1        81             Quiz 1              79                 
+A006            Assignment 1        13             Quiz 1              98                 
+A007            Assignment 1        57             Quiz 1              60                 
+A008            Assignment 1        66             Quiz 1              70                 
+A009            Assignment 1        76             Quiz 1              45                 
+A0010           Assignment 1        67             Quiz 1              89                 
+A0011           Assignment 1        73             Quiz 1              87                 
+A0012           Assignment 1        14             Quiz 1              40                 
+A0013           Assignment 1        76             Quiz 1              73                 
+A0014           Assignment 1        86             Quiz 1              78                 
+A0015           Assignment 1        55             Quiz 1              76                 
+A0016           Assignment 1        98             Quiz 1              89                 
+A0017           Assignment 1        77             Quiz 1              45                 
+A0018           Assignment 1        87             Quiz 1              54                 
+A0019           Assignment 1        67             Quiz 1              88                 
+A0020           Assignment 1        88             Quiz 1              55                 
+A0021           Assignment 1        66             Quiz 1              56                 
+A0022           Assignment 1        90             Quiz 1              88                 
+A0023           Assignment 1        67             Quiz 1              45                 
+
+		MENU:
+-------------------------------
+1. Display the first file.
+2. Display the second file
+3. Search student record
+4. Add marks
+5. Create third file
+6. Display the third file
+7. Exit
+--------------------------------
+
+Enter your choice: 3
+******************************************************************************
+Enter the student ID to search: A0017
+
+Record found:
+------------------------------
+Student ID      : A0017
+Student Name    : Asita Mishra
+Course          : Business
+------------------------------
+
+		MENU:
+-------------------------------
+1. Display the first file.
+2. Display the second file
+3. Search student record
+4. Add marks
+5. Create third file
+6. Display the third file
+7. Exit
+--------------------------------
+
+Enter your choice: 4
+******************************************************************************
+Enter the student ID for adding marks: A0024
+Enter the student name: Suraj Acharya
+Enter the course: Business
+Enter the assignment marks: 98
+Enter the quiz marks: 66
+---------------------------------------------------------------------------
+Marks added successfully for the new student.
+---------------------------------------------------------------------------
+
+		MENU:
+-------------------------------
+1. Display the first file.
+2. Display the second file
+3. Search student record
+4. Add marks
+5. Create third file
+6. Display the third file
+7. Exit
+--------------------------------
+
+Enter your choice: 5
+******************************************************************************
+Processing data for student ID: A001
+Total marks calculated for student A001: 67.50, Grade: D
+
+Processing data for student ID: A002
+Total marks calculated for student A002: 84.50, Grade: B
+
+Processing data for student ID: A003
+Total marks calculated for student A003: 71.00, Grade: C
+
+Processing data for student ID: A004
+Total marks calculated for student A004: 77.00, Grade: C
+
+Processing data for student ID: A005
+Total marks calculated for student A005: 80.00, Grade: B
+
+Processing data for student ID: A006
+Total marks calculated for student A006: 55.50, Grade: F
+
+Processing data for student ID: A007
+Total marks calculated for student A007: 58.50, Grade: F
+
+Processing data for student ID: A008
+Total marks calculated for student A008: 68.00, Grade: D
+
+Processing data for student ID: A009
+Total marks calculated for student A009: 60.50, Grade: D
+
+Processing data for student ID: A0010
+Total marks calculated for student A0010: 78.00, Grade: C
+
+Processing data for student ID: A0011
+Total marks calculated for student A0011: 80.00, Grade: B
+
+Processing data for student ID: A0012
+Total marks calculated for student A0012: 27.00, Grade: F
+
+Processing data for student ID: A0013
+Total marks calculated for student A0013: 74.50, Grade: C
+
+Processing data for student ID: A0014
+Total marks calculated for student A0014: 82.00, Grade: B
+
+Processing data for student ID: A0015
+Total marks calculated for student A0015: 65.50, Grade: D
+
+Processing data for student ID: A0016
+Total marks calculated for student A0016: 93.50, Grade: A
+
+Processing data for student ID: A0017
+Total marks calculated for student A0017: 61.00, Grade: D
+
+Processing data for student ID: A0018
+Total marks calculated for student A0018: 70.50, Grade: C
+
+Processing data for student ID: A0019
+Total marks calculated for student A0019: 77.50, Grade: C
+
+Processing data for student ID: A0020
+Total marks calculated for student A0020: 71.50, Grade: C
+
+Processing data for student ID: A0021
+Total marks calculated for student A0021: 61.00, Grade: D
+
+Processing data for student ID: A0022
+Total marks calculated for student A0022: 89.00, Grade: B
+
+Processing data for student ID: A0023
+Total marks calculated for student A0023: 56.00, Grade: F
+
+Processing data for student ID: A0024
+Total marks calculated for student A0024: 82.00, Grade: B
+
+---------------------------------------------------------------------------
+Third file creation completed.
+---------------------------------------------------------------------------
+
+		MENU:
+-------------------------------
+1. Display the first file.
+2. Display the second file
+3. Search student record
+4. Add marks
+5. Create third file
+6. Display the third file
+7. Exit
+--------------------------------
+
+Enter your choice: 6
+******************************************************************************
+
+Data from third file:
+
+---------------------------------------------------------------------------
+Student ID     Student Name        Course         Total Grade    
+---------------------------------------------------------------------------
+A001           Ram Lama            Business       67.50, D       
+A002           Mark Timalsina      Business       84.50, B       
+A003           Lina Shrestha       Business       71.00, C       
+A004           Sita Thapa          Business       77.00, C       
+A005           Gita Thapa          Business       80.00, B       
+A006           Hari Basnet         Business       55.50, F       
+A007           Shyamu Kaushal      Business       58.50, F       
+A008           Bipana Magar        Business       68.00, D       
+A009           Sisham Thapa        Business       60.50, D       
+A0010          Riya Chaudary       Business       78.00, C       
+A0011          Arika Basnet        Business       80.00, B       
+A0012          Aayusha Mishra      Business       27.00, F       
+A0013          Aman Ale            Business       74.50, C       
+A0014          Amrita Khadka       Business       82.00, B       
+A0015          Anup Bhattarai      Business       65.50, D       
+A0016          Ann Magar           Business       93.50, A       
+A0017          Asita Mishra        Business       61.00, D       
+A0018          Julia Haart         Business       70.50, C       
+A0019          Nikita Ale          Business       77.50, C       
+A0020          Namuna Chaudhary    Business       71.50, C       
+A0021          Kushal Rai          Business       61.00, D       
+A0022          Selsa Chaudhary     Business       89.00, B       
+A0023          Nabin Thapa         Business       56.00, F       
+A0024          Suraj Acharya       Business       82.00, B       
+---------------------------------------------------------------------------
+
+		MENU:
+-------------------------------
+1. Display the first file.
+2. Display the second file
+3. Search student record
+4. Add marks
+5. Create third file
+6. Display the third file
+7. Exit
+--------------------------------
+
+Enter your choice: 7
+******************************************************************************
+THANK YOU!!!
+Exiting the program...
+******************************************************************************
